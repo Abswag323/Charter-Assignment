@@ -1,9 +1,7 @@
 package com.charter.Charter.Rewards.models;
 
-import java.math.BigDecimal;
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class Transactions {
 
